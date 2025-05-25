@@ -514,8 +514,8 @@ const studentData = [
   {"id":"12-01-097-297","name":"Zyra Relova Rahadyan","score":9.10,"status":"LULUS"}
 ];
 
-// Set the countdown date (2 Mei 2025 00:00 WIB / GMT+7)
-const countdownDate = new Date('April 2, 2025 00:00:00 GMT+0700').getTime();
+// Set the countdown date (2 June 2025 00:00 WIB / GMT+7)
+const countdownDate = new Date('June 2, 2025 00:00:00 GMT+0700').getTime();
 
 // Update the countdown every 1 second
 const countdownTimer = setInterval(function() {
