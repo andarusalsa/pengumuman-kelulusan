@@ -914,872 +914,872 @@ const studentData = [
   },
   {
     "id":"12-01-097-153",
-    "name" : "Alfa Rizki",
-    "score" : 9.6,
+    "nama" : "Alfa Rizki",
+    "nilai" : 9.6,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-154",
-    "name" : "DEVI FITRI YANI",
-    "score" : 9.6,
+    "nama" : "DEVI FITRI YANI",
+    "nilai" : 9.6,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-155",
-    "name" : "Dian Pusfika Sari",
-    "score" : 9.6,
+    "nama" : "Dian Pusfika Sari",
+    "nilai" : 9.6,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-156",
-    "name" : "EDO PRASTIAN MAULANA",
-    "score" : 9.6,
+    "nama" : "EDO PRASTIAN MAULANA",
+    "nilai" : 9.6,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-157",
-    "name" : "FARHAN HABIB MAULANA",
-    "score" : 9.6,
+    "nama" : "FARHAN HABIB MAULANA",
+    "nilai" : 9.6,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-158",
-    "name" : "Fitri Yuliyanti",
-    "score" : 9.6,
+    "nama" : "Fitri Yuliyanti",
+    "nilai" : 9.6,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-159",
-    "name" : "Hafidjah Syakila Imanuddin",
-    "score" : 9.6,
+    "nama" : "Hafidjah Syakila Imanuddin",
+    "nilai" : 9.6,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-160",
-    "name" : "HAFISA SYAHIRAMADANI",
-    "score" : 9.6,
+    "nama" : "HAFISA SYAHIRAMADANI",
+    "nilai" : 9.6,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-161",
-    "name" : "Keandre Rafif Lantara",
-    "score" : 9.6,
+    "nama" : "Keandre Rafif Lantara",
+    "nilai" : 9.6,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-162",
-    "name" : "KEISYA DZIKRINA SOFYAN",
-    "score" : 9.6,
+    "nama" : "KEISYA DZIKRINA SOFYAN",
+    "nilai" : 9.6,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-163",
-    "name" : "Khoirunnisa",
-    "score" : 9.6,
+    "nama" : "Khoirunnisa",
+    "nilai" : 9.6,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-164",
-    "name" : "Kyla Azalia Lesmana Putri",
-    "score" : 9.6,
+    "nama" : "Kyla Azalia Lesmana Putri",
+    "nilai" : 9.6,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-165",
-    "name" : "LYANA",
-    "score" : 9.6,
+    "nama" : "LYANA",
+    "nilai" : 9.6,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-166",
-    "name" : "M. Hasbi",
-    "score" : 9.6,
+    "nama" : "M. Hasbi",
+    "nilai" : 9.6,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-167",
-    "name" : "M. IKBAL ARDANA",
-    "score" : 9.6,
+    "nama" : "M. IKBAL ARDANA",
+    "nilai" : 9.6,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-168",
-    "name" : "M. MALIK",
-    "score" : 9.6,
+    "nama" : "M. MALIK",
+    "nilai" : 9.6,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-169",
-    "name" : "M.RIDWAN",
-    "score" : 9.6,
+    "nama" : "M.RIDWAN",
+    "nilai" : 9.6,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-170",
-    "name" : "M.ZAVAS AL-FARIZI",
-    "score" : 9.6,
+    "nama" : "M.ZAVAS AL-FARIZI",
+    "nilai" : 9.6,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-171",
-    "name" : "Muhamad Alfaridzi",
-    "score" : 9.6,
+    "nama" : "Muhamad Alfaridzi",
+    "nilai" : 9.6,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-172",
-    "name" : "Muhammad Alhafidz",
-    "score" : 9.6,
+    "nama" : "Muhammad Alhafidz",
+    "nilai" : 9.6,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-173",
-    "name" : "Muhammad Nur Alif",
-    "score" : 9.6,
+    "nama" : "Muhammad Nur Alif",
+    "nilai" : 9.6,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-174",
-    "name" : "NAINA YULIANA",
-    "score" : 9.6,
+    "nama" : "NAINA YULIANA",
+    "nilai" : 9.6,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-175",
-    "name" : "Princessa Denova",
-    "score" : 9.6,
+    "nama" : "Princessa Denova",
+    "nilai" : 9.6,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-176",
-    "name" : "RAHMAT HIDAYATULLAH",
-    "score" : 9.6,
+    "nama" : "RAHMAT HIDAYATULLAH",
+    "nilai" : 9.6,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-177",
-    "name" : "Raka Pratama",
-    "score" : 9.6,
+    "nama" : "Raka Pratama",
+    "nilai" : 9.6,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-178",
-    "name" : "RIZKY APRILIAN",
-    "score" : 9.6,
+    "nama" : "RIZKY APRILIAN",
+    "nilai" : 9.6,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-179",
-    "name" : "Salsabila Rahadatul Aisy",
-    "score" : 9.6,
+    "nama" : "Salsabila Rahadatul Aisy",
+    "nilai" : 9.6,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-180",
-    "name" : "SYAFA AULIA FASHI",
-    "score" : 9.6,
+    "nama" : "SYAFA AULIA FASHI",
+    "nilai" : 9.6,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-181",
-    "name" : "ZIVANA AMIRA TSANI",
-    "score" : 9.6,
+    "nama" : "ZIVANA AMIRA TSANI",
+    "nilai" : 9.6,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-182",
-    "name" : "Alfath Zhilo",
-    "score" : 9.7,
+    "nama" : "Alfath Zhilo",
+    "nilai" : 9.7,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-183",
-    "name" : "ANNAFI OZAM MALIK",
-    "score" : 9.7,
+    "nama" : "ANNAFI OZAM MALIK",
+    "nilai" : 9.7,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-184",
-    "name" : "ARYADILLAH",
-    "score" : 9.7,
+    "nama" : "ARYADILLAH",
+    "nilai" : 9.7,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-185",
-    "name" : "AUREAL APRILIA SETIAWAN",
-    "score" : 9.7,
+    "nama" : "AUREAL APRILIA SETIAWAN",
+    "nilai" : 9.7,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-186",
-    "name" : "AYU MAULA NASUHA",
-    "score" : 9.7,
+    "nama" : "AYU MAULA NASUHA",
+    "nilai" : 9.7,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-187",
-    "name" : "Chelsea Claudia Mega",
-    "score" : 9.7,
+    "nama" : "Chelsea Claudia Mega",
+    "nilai" : 9.7,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-188",
-    "name" : "ESTER FELICIA DAMANIK",
-    "score" : 9.7,
+    "nama" : "ESTER FELICIA DAMANIK",
+    "nilai" : 9.7,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-189",
-    "name" : "FARIDA QONITA",
-    "score" : 9.7,
+    "nama" : "FARIDA QONITA",
+    "nilai" : 9.7,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-190",
-    "name" : "Farsal Al Sikri",
-    "score" : 9.7,
+    "nama" : "Farsal Al Sikri",
+    "nilai" : 9.7,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-191",
-    "name" : "Grace Zivilia",
-    "score" : 9.7,
+    "nama" : "Grace Zivilia",
+    "nilai" : 9.7,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-192",
-    "name" : "Intan Firda Irmala",
-    "score" : 9.7,
+    "nama" : "Intan Firda Irmala",
+    "nilai" : 9.7,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-193",
-    "name" : "JENNYA ANTIKA",
-    "score" : 9.7,
+    "nama" : "JENNYA ANTIKA",
+    "nilai" : 9.7,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-194",
-    "name" : "KEISHA DINDA PRAMESTI",
-    "score" : 9.7,
+    "nama" : "KEISHA DINDA PRAMESTI",
+    "nilai" : 9.7,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-195",
-    "name" : "KIRANA AURELLIE SHAMARETA",
-    "score" : 9.7,
+    "nama" : "KIRANA AURELLIE SHAMARETA",
+    "nilai" : 9.7,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-196",
-    "name" : "M. MUSTAKIM",
-    "score" : 9.7,
+    "nama" : "M. MUSTAKIM",
+    "nilai" : 9.7,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-197",
-    "name" : "Muhammad Armanzya",
-    "score" : 9.7,
+    "nama" : "Muhammad Armanzya",
+    "nilai" : 9.7,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-198",
-    "name" : "MUHAMMAD FHIMAN HIDAIT",
-    "score" : 9.7,
+    "nama" : "MUHAMMAD FHIMAN HIDAIT",
+    "nilai" : 9.7,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-199",
-    "name" : "Muhammad Rhadit Ghofur Setiawan",
-    "score" : 9.7,
+    "nama" : "Muhammad Rhadit Ghofur Setiawan",
+    "nilai" : 9.7,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-200",
-    "name" : "NAJIYAH REPISA PUTRI",
-    "score" : 9.7,
+    "nama" : "NAJIYAH REPISA PUTRI",
+    "nilai" : 9.7,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-201",
-    "name" : "Nopal Aryanto",
-    "score" : 9.7,
+    "nama" : "Nopal Aryanto",
+    "nilai" : 9.7,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-202",
-    "name" : "NOPITA",
-    "score" : 9.7,
+    "nama" : "NOPITA",
+    "nilai" : 9.7,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-203",
-    "name" : "Putri Aprillia",
-    "score" : 9.7,
+    "nama" : "Putri Aprillia",
+    "nilai" : 9.7,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-204",
-    "name" : "Rakha Febriansyah",
-    "score" : 9.7,
+    "nama" : "Rakha Febriansyah",
+    "nilai" : 9.7,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-205",
-    "name" : "Rizky Aditya",
-    "score" : 9.7,
+    "nama" : "Rizky Aditya",
+    "nilai" : 9.7,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-206",
-    "name" : "RIZKY DWI PRATAMA",
-    "score" : 9.7,
+    "nama" : "RIZKY DWI PRATAMA",
+    "nilai" : 9.7,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-207",
-    "name" : "SERA VINA PANCA YANAH",
-    "score" : 9.7,
+    "nama" : "SERA VINA PANCA YANAH",
+    "nilai" : 9.7,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-208",
-    "name" : "SITI NURANISA",
-    "score" : 9.7,
+    "nama" : "SITI NURANISA",
+    "nilai" : 9.7,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-209",
-    "name" : "WAHYU APRIYANTO PRATAMA",
-    "score" : 9.7,
+    "nama" : "WAHYU APRIYANTO PRATAMA",
+    "nilai" : 9.7,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-210",
-    "name" : "Anissa Putri Ramadhani",
-    "score" : 9.8,
+    "nama" : "Anissa Putri Ramadhani",
+    "nilai" : 9.8,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-211",
-    "name" : "Aulia Nurahma",
-    "score" : 9.8,
+    "nama" : "Aulia Nurahma",
+    "nilai" : 9.8,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-212",
-    "name" : "Aura Sifa Khadijah",
-    "score" : 9.8,
+    "nama" : "Aura Sifa Khadijah",
+    "nilai" : 9.8,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-213",
-    "name" : "BAGUS OKA SAPUTRA",
-    "score" : 9.8,
+    "nama" : "BAGUS OKA SAPUTRA",
+    "nilai" : 9.8,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-214",
-    "name" : "DAVINES SANDHO APRIANO",
-    "score" : 9.8,
+    "nama" : "DAVINES SANDHO APRIANO",
+    "nilai" : 9.8,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-215",
-    "name" : "DENIS PRAYOGA",
-    "score" : 9.8,
+    "nama" : "DENIS PRAYOGA",
+    "nilai" : 9.8,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-216",
-    "name" : "FAIZ ARDIANSYAH. S",
-    "score" : 9.8,
+    "nama" : "FAIZ ARDIANSYAH. S",
+    "nilai" : 9.8,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-217",
-    "name" : "FAYYAZA FATIMAH",
-    "score" : 9.8,
+    "nama" : "FAYYAZA FATIMAH",
+    "nilai" : 9.8,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-218",
-    "name" : "Fazar Hermansyah",
-    "score" : 9.8,
+    "nama" : "Fazar Hermansyah",
+    "nilai" : 9.8,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-219",
-    "name" : "Giovani Saputra",
-    "score" : 9.8,
+    "nama" : "Giovani Saputra",
+    "nilai" : 9.8,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-220",
-    "name" : "KEISYA FITRIYANI",
-    "score" : 9.8,
+    "nama" : "KEISYA FITRIYANI",
+    "nilai" : 9.8,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-221",
-    "name" : "Khansa Nari Shabihah",
-    "score" : 9.8,
+    "nama" : "Khansa Nari Shabihah",
+    "nilai" : 9.8,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-222",
-    "name" : "LEIDITA SUBAGIO",
-    "score" : 9.8,
+    "nama" : "LEIDITA SUBAGIO",
+    "nilai" : 9.8,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-223",
-    "name" : "M. BIMA PRATAMA",
-    "score" : 9.8,
+    "nama" : "M. BIMA PRATAMA",
+    "nilai" : 9.8,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-224",
-    "name" : "M. Raehan Hidayat",
-    "score" : 9.8,
+    "nama" : "M. Raehan Hidayat",
+    "nilai" : 9.8,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-225",
-    "name" : "M. RAFFI AL FAHREJI",
-    "score" : 9.8,
+    "nama" : "M. RAFFI AL FAHREJI",
+    "nilai" : 9.8,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-226",
-    "name" : "M. RIFQI FAHREZI",
-    "score" : 9.8,
+    "nama" : "M. RIFQI FAHREZI",
+    "nilai" : 9.8,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-227",
-    "name" : "Muhammad Iqbal",
-    "score" : 9.8,
+    "nama" : "Muhammad Iqbal",
+    "nilai" : 9.8,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-228",
-    "name" : "MUHAMMAD REYVAN HAKIM",
-    "score" : 9.8,
+    "nama" : "MUHAMMAD REYVAN HAKIM",
+    "nilai" : 9.8,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-229",
-    "name" : "MUHAMMAD SYAKHI F",
-    "score" : 9.8,
+    "nama" : "MUHAMMAD SYAKHI F",
+    "nilai" : 9.8,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-230",
-    "name" : "Najwa Rahma Agustina",
-    "score" : 9.8,
+    "nama" : "Najwa Rahma Agustina",
+    "nilai" : 9.8,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-231",
-    "name" : "Naura Sabila Putri",
-    "score" : 9.8,
+    "nama" : "Naura Sabila Putri",
+    "nilai" : 9.8,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-232",
-    "name" : "Odi Saputra",
-    "score" : 9.8,
+    "nama" : "Odi Saputra",
+    "nilai" : 9.8,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-233",
-    "name" : "PUTRI DAMAYANTI",
-    "score" : 9.8,
+    "nama" : "PUTRI DAMAYANTI",
+    "nilai" : 9.8,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-234",
-    "name" : "RAYA RAZKY AL-KHAFI",
-    "score" : 9.8,
+    "nama" : "RAYA RAZKY AL-KHAFI",
+    "nilai" : 9.8,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-235",
-    "name" : "RAYYA ADITYA EVANDI",
-    "score" : 9.8,
+    "nama" : "RAYYA ADITYA EVANDI",
+    "nilai" : 9.8,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-236",
-    "name" : "SHEILA PUTRI PASIA",
-    "score" : 9.8,
+    "nama" : "SHEILA PUTRI PASIA",
+    "nilai" : 9.8,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-237",
-    "name" : "Tegar Ryski Ramadhan",
-    "score" : 9.8,
+    "nama" : "Tegar Ryski Ramadhan",
+    "nilai" : 9.8,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-238",
-    "name" : "VIANDRA JANUAR ZIO AFANDI",
-    "score" : 9.8,
+    "nama" : "VIANDRA JANUAR ZIO AFANDI",
+    "nilai" : 9.8,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-239",
-    "name" : "AKBAR MAULANA",
-    "score" : 9.9,
+    "nama" : "AKBAR MAULANA",
+    "nilai" : 9.9,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-240",
-    "name" : "ALFFIN MANDALA SAPUTRA",
-    "score" : 9.9,
+    "nama" : "ALFFIN MANDALA SAPUTRA",
+    "nilai" : 9.9,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-241",
-    "name" : "ALIEZHA NUR AZ ZAHRA",
-    "score" : 9.9,
+    "nama" : "ALIEZHA NUR AZ ZAHRA",
+    "nilai" : 9.9,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-242",
-    "name" : "ALIF ADI RIZKI",
-    "score" : 9.9,
+    "nama" : "ALIF ADI RIZKI",
+    "nilai" : 9.9,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-243",
-    "name" : "DENIS PUTRA MEYKA",
-    "score" : 9.9,
+    "nama" : "DENIS PUTRA MEYKA",
+    "nilai" : 9.9,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-244",
-    "name" : "DWI KOMALA SARI",
-    "score" : 9.9,
+    "nama" : "DWI KOMALA SARI",
+    "nilai" : 9.9,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-245",
-    "name" : "Febya Zyahrani",
-    "score" : 9.9,
+    "nama" : "Febya Zyahrani",
+    "nilai" : 9.9,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-246",
-    "name" : "Fikri Zovian Syahputra",
-    "score" : 9.9,
+    "nama" : "Fikri Zovian Syahputra",
+    "nilai" : 9.9,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-247",
-    "name" : "GINA AULIA PUTRI",
-    "score" : 9.9,
+    "nama" : "GINA AULIA PUTRI",
+    "nilai" : 9.9,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-248",
-    "name" : "KEKE AZ-ZAHRA",
-    "score" : 9.9,
+    "nama" : "KEKE AZ-ZAHRA",
+    "nilai" : 9.9,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-249",
-    "name" : "Kesya Novellia",
-    "score" : 9.9,
+    "nama" : "Kesya Novellia",
+    "nilai" : 9.9,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-250",
-    "name" : "M. FEBRIAN ICHSAN",
-    "score" : 9.9,
+    "nama" : "M. FEBRIAN ICHSAN",
+    "nilai" : 9.9,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-251",
-    "name" : "M. HAYKAL",
-    "score" : 9.9,
+    "nama" : "M. HAYKAL",
+    "nilai" : 9.9,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-252",
-    "name" : "M. Sani",
-    "score" : 9.9,
+    "nama" : "M. Sani",
+    "nilai" : 9.9,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-253",
-    "name" : "M. Wildan Saputra",
-    "score" : 9.9,
+    "nama" : "M. Wildan Saputra",
+    "nilai" : 9.9,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-254",
-    "name" : "Marsya Adelia Dwiyanti",
-    "score" : 9.9,
+    "nama" : "Marsya Adelia Dwiyanti",
+    "nilai" : 9.9,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-255",
-    "name" : "MAULANA MUHAMMAD RAFFA",
-    "score" : 9.9,
+    "nama" : "MAULANA MUHAMMAD RAFFA",
+    "nilai" : 9.9,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-256",
-    "name" : "Muhamad Arya Alfarizi",
-    "score" : 9.9,
+    "nama" : "Muhamad Arya Alfarizi",
+    "nilai" : 9.9,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-257",
-    "name" : "Muhammad Luthfi Bagaskara",
-    "score" : 9.9,
+    "nama" : "Muhammad Luthfi Bagaskara",
+    "nilai" : 9.9,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-258",
-    "name" : "MUHAMMAD RASYID",
-    "score" : 9.9,
+    "nama" : "MUHAMMAD RASYID",
+    "nilai" : 9.9,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-259",
-    "name" : "Muhammad Wahyu Nugroho",
-    "score" : 9.9,
+    "nama" : "Muhammad Wahyu Nugroho",
+    "nilai" : 9.9,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-260",
-    "name" : "Natasya Aulia Putri",
-    "score" : 9.9,
+    "nama" : "Natasya Aulia Putri",
+    "nilai" : 9.9,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-261",
-    "name" : "Okta Aditya",
-    "score" : 9.9,
+    "nama" : "Okta Aditya",
+    "nilai" : 9.9,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-262",
-    "name" : "PUTRI FARDINI",
-    "score" : 9.9,
+    "nama" : "PUTRI FARDINI",
+    "nilai" : 9.9,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-263",
-    "name" : "RASYA ADITYA PRATAMA",
-    "score" : 9.9,
+    "nama" : "RASYA ADITYA PRATAMA",
+    "nilai" : 9.9,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-264",
-    "name" : "SAIDAH NURHAFIFAH",
-    "score" : 9.9,
+    "nama" : "SAIDAH NURHAFIFAH",
+    "nilai" : 9.9,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-265",
-    "name" : "SITI FATIMA AZAHRA",
-    "score" : 9.9,
+    "nama" : "SITI FATIMA AZAHRA",
+    "nilai" : 9.9,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-266",
-    "name" : "WULAN SARI",
-    "score" : 9.9,
+    "nama" : "WULAN SARI",
+    "nilai" : 9.9,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-267",
-    "name" : "ZEVANYA AURELIA MOZA",
-    "score" : 9.9,
+    "nama" : "ZEVANYA AURELIA MOZA",
+    "nilai" : 9.9,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-268",
-    "name" : "ANGGARA AFGANSYAH RAMA",
-    "score" : 9.10,
+    "nama" : "ANGGARA AFGANSYAH RAMA",
+    "nilai" : 9.10,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-269",
-    "name" : "ANISA RAHMAWATI",
-    "score" : 9.10,
+    "nama" : "ANISA RAHMAWATI",
+    "nilai" : 9.10,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-270",
-    "name" : "DENIS SANJAYA",
-    "score" : 9.10,
+    "nama" : "DENIS SANJAYA",
+    "nilai" : 9.10,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-271",
-    "name" : "DWI YUDIANTO",
-    "score" : 9.10,
+    "nama" : "DWI YUDIANTO",
+    "nilai" : 9.10,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-272",
-    "name" : "Dwifa Shinta Pratiwi",
-    "score" : 9.10,
+    "nama" : "Dwifa Shinta Pratiwi",
+    "nilai" : 9.10,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-273",
-    "name" : "Efinda Syilbi",
-    "score" : 9.10,
+    "nama" : "Efinda Syilbi",
+    "nilai" : 9.10,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-274",
-    "name" : "EREN MAULIDYAH",
-    "score" : 9.10,
+    "nama" : "EREN MAULIDYAH",
+    "nilai" : 9.10,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-275",
-    "name" : "FITRA ARDIANSYAH",
-    "score" : 9.10,
+    "nama" : "FITRA ARDIANSYAH",
+    "nilai" : 9.10,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-276",
-    "name" : "Gianza Permana",
-    "score" : 9.10,
+    "nama" : "Gianza Permana",
+    "nilai" : 9.10,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-277",
-    "name" : "JANUAR RIZKY HARTONO",
-    "score" : 9.10,
+    "nama" : "JANUAR RIZKY HARTONO",
+    "nilai" : 9.10,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-278",
-    "name" : "Keysa Maharani",
-    "score" : 9.10,
+    "nama" : "Keysa Maharani",
+    "nilai" : 9.10,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-279",
-    "name" : "KHANSA ALIFAH MAULIDIA",
-    "score" : 9.10,
+    "nama" : "KHANSA ALIFAH MAULIDIA",
+    "nilai" : 9.10,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-280",
-    "name" : "M. ABIYAN FADILLAH",
-    "score" : 9.10,
+    "nama" : "M. ABIYAN FADILLAH",
+    "nilai" : 9.10,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-281",
-    "name" : "M.ANGGI PRATAMA",
-    "score" : 9.10,
+    "nama" : "M.ANGGI PRATAMA",
+    "nilai" : 9.10,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-282",
-    "name" : "Muhammad Raditya Rizky",
-    "score" : 9.10,
+    "nama" : "Muhammad Raditya Rizky",
+    "nilai" : 9.10,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-283",
-    "name" : "Muhammad Raka Fahrianto",
-    "score" : 9.10,
+    "nama" : "Muhammad Raka Fahrianto",
+    "nilai" : 9.10,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-284",
-    "name" : "MUHAMMAD RESTA",
-    "score" : 9.10,
+    "nama" : "MUHAMMAD RESTA",
+    "nilai" : 9.10,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-285",
-    "name" : "MULIADI KURNIAWAN",
-    "score" : 9.10,
+    "nama" : "MULIADI KURNIAWAN",
+    "nilai" : 9.10,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-286",
-    "name" : "Mutia Aghnia Kumairah",
-    "score" : 9.10,
+    "nama" : "Mutia Aghnia Kumairah",
+    "nilai" : 9.10,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-287",
-    "name" : "MUTIA ANGGRAINI",
-    "score" : 9.10,
+    "nama" : "MUTIA ANGGRAINI",
+    "nilai" : 9.10,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-288",
-    "name" : "MUTIARA",
-    "score" : 9.10,
+    "nama" : "MUTIARA",
+    "nilai" : 9.10,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-289",
-    "name" : "NAOMI AULIA",
-    "score" : 9.10,
+    "nama" : "NAOMI AULIA",
+    "nilai" : 9.10,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-290",
-    "name" : "NASILAH RAMADANI",
-    "score" : 9.10,
+    "nama" : "NASILAH RAMADANI",
+    "nilai" : 9.10,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-291",
-    "name" : "Rafael Sadam Husen Gandhi",
-    "score" : 9.10,
+    "nama" : "Rafael Sadam Husen Gandhi",
+    "nilai" : 9.10,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-292",
-    "name" : "RATU AURORA MAULIDA",
-    "score" : 9.10,
+    "nama" : "RATU AURORA MAULIDA",
+    "nilai" : 9.10,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-293",
-    "name" : "ROHILLA LISANGRAENI",
-    "score" : 9.10,
+    "nama" : "ROHILLA LISANGRAENI",
+    "nilai" : 9.10,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-294",
-    "name" : "SHAFIRA OKTAVIA ASNUR",
-    "score" : 9.10,
+    "nama" : "SHAFIRA OKTAVIA ASNUR",
+    "nilai" : 9.10,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-295",
-    "name" : "SHIREN OKTAVIANA PUTRI",
-    "score" : 9.10,
+    "nama" : "SHIREN OKTAVIANA PUTRI",
+    "nilai" : 9.10,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-296",
-    "name" : "TIA AULIA RAHMA",
-    "score" : 9.10,
+    "nama" : "TIA AULIA RAHMA",
+    "nilai" : 9.10,
     "status" : "LULUS"
   },
   {
     "id":"12-01-097-297",
-    "name" : "Zyra Relova Rahadyan",
-    "score" : 9.10,
+    "nama" : "Zyra Relova Rahadyan",
+    "nilai" : 9.10,
     "status" : "LULUS"
   }
 ];
