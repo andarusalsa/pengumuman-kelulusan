@@ -514,23 +514,16 @@ const studentData = [
   {"id":"12-01-097-297","name":"Zyra Relova Rahadyan","score":9.10,"status":"LULUS"}
 ];
 
-// Set the countdown date (2 June 2025 00:00 WIB / GMT+7)
 document.addEventListener("DOMContentLoaded", function() {
-    const countdownDate = new Date('2025-06-02T00:00:00+07:00').getTime();
+    const countdownDate = new Date("June 2, 2025 00:00:00").getTime();
 
     const countdownTimer = setInterval(function() {
         const now = new Date().getTime();
         const distance = countdownDate - now;
 
-        const days = Math.floor(distance / (1000 * 60 * 60 * 24));
-        const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-        const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-        const seconds = Math.floor((distance % (1000 * 60)) / 1000);
-
-        document.getElementById("days").textContent = days.toString().padStart(2, '0');
-        document.getElementById("hours").textContent = hours.toString().padStart(2, '0');
-        document.getElementById("minutes").textContent = minutes.toString().padStart(2, '0');
-        document.getElementById("seconds").textContent = seconds.toString().padStart(2, '0');
+        console.log("Countdown target:", new Date(countdownDate).toString());
+        console.log("Waktu sekarang:", new Date(now).toString());
+        console.log("Distance (ms):", distance);
 
         if (distance < 0) {
             clearInterval(countdownTimer);
@@ -541,7 +534,18 @@ document.addEventListener("DOMContentLoaded", function() {
 
             document.getElementById("countdown-section").classList.add("hidden");
             document.getElementById("form-section").classList.remove("hidden");
+            return;  // langsung keluar
         }
+
+        const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+        const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+        document.getElementById("days").textContent = days.toString().padStart(2, '0');
+        document.getElementById("hours").textContent = hours.toString().padStart(2, '0');
+        document.getElementById("minutes").textContent = minutes.toString().padStart(2, '0');
+        document.getElementById("seconds").textContent = seconds.toString().padStart(2, '0');
     }, 1000);
 });
 
