@@ -519,27 +519,18 @@ console.log("Countdown section:", document.getElementById("countdown-section"));
 console.log("Form section:", document.getElementById("form-section"));
 
 
-document.addEventListener("DOMContentLoaded", function() {
-    const countdownDate = new Date("June 2, 2025 00:00:00").getTime();
+document.addEventListener("DOMContentLoaded", function () {
+    const targetDate = new Date("2025-06-01T08:00:00").getTime();
 
-    const countdownTimer = setInterval(function() {
+    const countdownTimer = setInterval(() => {
         const now = new Date().getTime();
-        const distance = countdownDate - now;
-
-        console.log("Countdown target:", new Date(countdownDate).toString());
-        console.log("Waktu sekarang:", new Date(now).toString());
-        console.log("Distance (ms):", distance);
+        const distance = targetDate - now;
 
         if (distance < 0) {
             clearInterval(countdownTimer);
-            document.getElementById("days").textContent = "00";
-            document.getElementById("hours").textContent = "00";
-            document.getElementById("minutes").textContent = "00";
-            document.getElementById("seconds").textContent = "00";
-
             document.getElementById("countdown-section").classList.add("hidden");
             document.getElementById("form-section").classList.remove("hidden");
-            return;  // langsung keluar
+            return;
         }
 
         const days = Math.floor(distance / (1000 * 60 * 60 * 24));
@@ -547,12 +538,13 @@ document.addEventListener("DOMContentLoaded", function() {
         const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
         const seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
-        document.getElementById("days").textContent = days.toString().padStart(2, '0');
-        document.getElementById("hours").textContent = hours.toString().padStart(2, '0');
-        document.getElementById("minutes").textContent = minutes.toString().padStart(2, '0');
-        document.getElementById("seconds").textContent = seconds.toString().padStart(2, '0');
+        document.getElementById("days").textContent = String(days).padStart(2, "0");
+        document.getElementById("hours").textContent = String(hours).padStart(2, "0");
+        document.getElementById("minutes").textContent = String(minutes).padStart(2, "0");
+        document.getElementById("seconds").textContent = String(seconds).padStart(2, "0");
     }, 1000);
 });
+
 
 
 // For demonstration purposes, uncomment this to bypass the countdown
