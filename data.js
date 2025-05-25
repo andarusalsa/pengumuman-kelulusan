@@ -514,41 +514,45 @@ const studentData = [
   {"id":"12-01-097-297","name":"Zyra Relova Rahadyan","score":9.10,"status":"LULUS"}
 ];
 
-var waktuAkhir = new Date("June 2, 2025 00:00:00").getTime();
+console.log("Days element:", document.getElementById("days"));
+console.log("Countdown section:", document.getElementById("countdown-section"));
+console.log("Form section:", document.getElementById("form-section"));
 
-var x = setInterval(function() {
 
-    // Catat waktu sekarang
-    var sekarang = new Date().getTime();
-      
-    // Mencari selisih
-    var selisih = waktuAkhir - sekarang;
-      
-    // Time calculations for days, hours, minutes and seconds
-    var hari = Math.floor(selisih / (1000 * 60 * 60 * 24));
-    var jam = Math.floor((selisih % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-    var menit = Math.floor((selisih % (1000 * 60 * 60)) / (1000 * 60));
-    var detik = Math.floor((selisih % (1000 * 60)) / 1000);
-      
-    // Output the result in an element with id="demo"
-    document.getElementById("hari").innerHTML = hari;
-    document.getElementById("jam").innerHTML = jam;
-    document.getElementById("menit").innerHTML = menit;
-    document.getElementById("detik").innerHTML = detik;
-      
-    // If the count down is over, write some text 
-    if (selisih < 0) {
-      clearInterval(x);
-      document.getElementById("hitungmundur").style.display="none";
-      document.getElementById("peringatan").innerHTML = "Silakan Login dengan Nomor Ujian";
-      document.getElementById("konten").style.display="block";
-      document.getElementById("cpr").style.display="block";
-    }else{
-      document.getElementById("hitungmundur").style.display="block";
-      document.getElementById("konten").style.display="none";
-      document.getElementById("cpr").style.display="block";
-    }
-  }, 1000);
+document.addEventListener("DOMContentLoaded", function() {
+    const countdownDate = new Date("June 2, 2025 00:00:00").getTime();
+
+    const countdownTimer = setInterval(function() {
+        const now = new Date().getTime();
+        const distance = countdownDate - now;
+
+        console.log("Countdown target:", new Date(countdownDate).toString());
+        console.log("Waktu sekarang:", new Date(now).toString());
+        console.log("Distance (ms):", distance);
+
+        if (distance < 0) {
+            clearInterval(countdownTimer);
+            document.getElementById("days").textContent = "00";
+            document.getElementById("hours").textContent = "00";
+            document.getElementById("minutes").textContent = "00";
+            document.getElementById("seconds").textContent = "00";
+
+            document.getElementById("countdown-section").classList.add("hidden");
+            document.getElementById("form-section").classList.remove("hidden");
+            return;  // langsung keluar
+        }
+
+        const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+        const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+        document.getElementById("days").textContent = days.toString().padStart(2, '0');
+        document.getElementById("hours").textContent = hours.toString().padStart(2, '0');
+        document.getElementById("minutes").textContent = minutes.toString().padStart(2, '0');
+        document.getElementById("seconds").textContent = seconds.toString().padStart(2, '0');
+    }, 1000);
+});
 
 
 // For demonstration purposes, uncomment this to bypass the countdown
