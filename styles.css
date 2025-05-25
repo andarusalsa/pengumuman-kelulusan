@@ -6,6 +6,12 @@ body {
     min-height: 100vh;
 }
 
+.logo-img {
+    width: 200px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
 .container {
     max-width: 1024px;
     margin: 0 auto;
