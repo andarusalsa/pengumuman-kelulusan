@@ -517,6 +517,7 @@ const studentData = [
 console.log("Days element:", document.getElementById("days"));
 console.log("Countdown section:", document.getElementById("countdown-section"));
 console.log("Form section:", document.getElementById("form-section"));
+console.log(now, targetDate, distance)
 
 
 document.addEventListener("DOMContentLoaded", function () {
