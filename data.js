@@ -260,1527 +260,1527 @@ const studentData = [
   },
   {
     "id":"12-01-097-044",
-    "nama" : "Hengky Chandra Yuliawan",
-    "nilai" : 9.2,
-    "status" : "LULUS"
+    "nama": "Hengky Chandra Yuliawan",
+    "kelas": 9.2,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-045",
-    "nama" : "KANESSYAH AMALIA",
-    "nilai" : 9.2,
-    "status" : "LULUS"
+    "nama": "KANESSYAH AMALIA",
+    "kelas": 9.2,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-046",
-    "nama" : "KARIN DESTYANI",
-    "nilai" : 9.2,
-    "status" : "LULUS"
+    "nama": "KARIN DESTYANI",
+    "kelas": 9.2,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-047",
-    "nama" : "LIVIA CAHYA CRYSTABEL",
-    "nilai" : 9.2,
-    "status" : "LULUS"
+    "nama": "LIVIA CAHYA CRYSTABEL",
+    "kelas": 9.2,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-048",
-    "nama" : "M. ALI SODIKIN",
-    "nilai" : 9.2,
-    "status" : "LULUS"
+    "nama": "M. ALI SODIKIN",
+    "kelas": 9.2,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-049",
-    "nama" : "M. ARFAN PERDIANSYAH",
-    "nilai" : 9.2,
-    "status" : "LULUS"
+    "nama": "M. ARFAN PERDIANSYAH",
+    "kelas": 9.2,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-050",
-    "nama" : "M. ARYA",
-    "nilai" : 9.2,
-    "status" : "LULUS"
+    "nama": "M. ARYA",
+    "kelas": 9.2,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-051",
-    "nama" : "M. Chiko Pratama",
-    "nilai" : 9.2,
-    "status" : "LULUS"
+    "nama": "M. Chiko Pratama",
+    "kelas": 9.2,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-052",
-    "nama" : "MELANY CANTIKA REGINA PUTRI",
-    "nilai" : 9.2,
-    "status" : "LULUS"
+    "nama": "MELANY CANTIKA REGINA PUTRI",
+    "kelas": 9.2,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-053",
-    "nama" : "Muhamad Aidil Adha",
-    "nilai" : 9.2,
-    "status" : "LULUS"
+    "nama": "Muhamad Aidil Adha",
+    "kelas": 9.2,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-054",
-    "nama" : "MUHAMMAD FAHMI GIFAHRI",
-    "nilai" : 9.2,
-    "status" : "LULUS"
+    "nama": "MUHAMMAD FAHMI GIFAHRI",
+    "kelas": 9.2,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-055",
-    "nama" : "NABILA PUTRI",
-    "nilai" : 9.2,
-    "status" : "LULUS"
+    "nama": "NABILA PUTRI",
+    "kelas": 9.2,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-056",
-    "nama" : "NATASYA CHINTYARA AGISTI",
-    "nilai" : 9.2,
-    "status" : "LULUS"
+    "nama": "NATASYA CHINTYARA AGISTI",
+    "kelas": 9.2,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-057",
-    "nama" : "NUR ANNISYAH",
-    "nilai" : 9.2,
-    "status" : "LULUS"
+    "nama": "NUR ANNISYAH",
+    "kelas": 9.2,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-058",
-    "nama" : "Rika Rahmadani",
-    "nilai" : 9.2,
-    "status" : "LULUS"
+    "nama": "Rika Rahmadani",
+    "kelas": 9.2,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-059",
-    "nama" : "SANDRA FEBRIANTI",
-    "nilai" : 9.2,
-    "status" : "LULUS"
+    "nama": "SANDRA FEBRIANTI",
+    "kelas": 9.2,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-060",
-    "nama" : "Saskia Pratama",
-    "nilai" : 9.2,
-    "status" : "LULUS"
+    "nama": "Saskia Pratama",
+    "kelas": 9.2,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-061",
-    "nama" : "Tike Riyanti Syafa",
-    "nilai" : 9.2,
-    "status" : "LULUS"
+    "nama": "Tike Riyanti Syafa",
+    "kelas": 9.2,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-062",
-    "nama" : "ZAFIRA NAURA SALSABILA",
-    "nilai" : 9.2,
-    "status" : "LULUS"
+    "nama": "ZAFIRA NAURA SALSABILA",
+    "kelas": 9.2,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-063",
-    "nama" : "Ade Kisel Saputra",
-    "nilai" : 9.3,
-    "status" : "LULUS"
+    "nama": "Ade Kisel Saputra",
+    "kelas": 9.3,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-064",
-    "nama" : "ADITYA JULIANTO",
-    "nilai" : 9.3,
-    "status" : "LULUS"
+    "nama": "ADITYA JULIANTO",
+    "kelas": 9.3,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-065",
-    "nama" : "ADITYA ROHMAN SAPUTRA",
-    "nilai" : 9.3,
-    "status" : "LULUS"
+    "nama": "ADITYA ROHMAN SAPUTRA",
+    "kelas": 9.3,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-066",
-    "nama" : "AFGAN SYAHREZA",
-    "nilai" : 9.3,
-    "status" : "LULUS"
+    "nama": "AFGAN SYAHREZA",
+    "kelas": 9.3,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-067",
-    "nama" : "AKBAR AHMAD SAYUTI",
-    "nilai" : 9.3,
-    "status" : "LULUS"
+    "nama": "AKBAR AHMAD SAYUTI",
+    "kelas": 9.3,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-068",
-    "nama" : "ARDAN SAHPUTRA",
-    "nilai" : 9.3,
-    "status" : "LULUS"
+    "nama": "ARDAN SAHPUTRA",
+    "kelas": 9.3,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-069",
-    "nama" : "ASTI AMELYA",
-    "nilai" : 9.3,
-    "status" : "LULUS"
+    "nama": "ASTI AMELYA",
+    "kelas": 9.3,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-070",
-    "nama" : "ATIKA NADHIRA PUTRI",
-    "nilai" : 9.3,
-    "status" : "LULUS"
+    "nama": "ATIKA NADHIRA PUTRI",
+    "kelas": 9.3,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-071",
-    "nama" : "AULIA AJENG PURNAMA",
-    "nilai" : 9.3,
-    "status" : "LULUS"
+    "nama": "AULIA AJENG PURNAMA",
+    "kelas": 9.3,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-072",
-    "nama" : "BEBY NATASYA",
-    "nilai" : 9.3,
-    "status" : "LULUS"
+    "nama": "BEBY NATASYA",
+    "kelas": 9.3,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-073",
-    "nama" : "Dahlia Serafina",
-    "nilai" : 9.3,
-    "status" : "LULUS"
+    "nama": "Dahlia Serafina",
+    "kelas": 9.3,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-074",
-    "nama" : "DEWI AULIANI",
-    "nilai" : 9.3,
-    "status" : "LULUS"
+    "nama": "DEWI AULIANI",
+    "kelas": 9.3,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-075",
-    "nama" : "DINDA SIFA AZAHRA",
-    "nilai" : 9.3,
-    "status" : "LULUS"
+    "nama": "DINDA SIFA AZAHRA",
+    "kelas": 9.3,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-076",
-    "nama" : "FAIZD HAFIZD",
-    "nilai" : 9.3,
-    "status" : "LULUS"
+    "nama": "FAIZD HAFIZD",
+    "kelas": 9.3,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-077",
-    "nama" : "Farhan Alfarabi",
-    "nilai" : 9.3,
-    "status" : "LULUS"
+    "nama": "Farhan Alfarabi",
+    "kelas": 9.3,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-078",
-    "nama" : "HAIQAL APRILIO",
-    "nilai" : 9.3,
-    "status" : "LULUS"
+    "nama": "HAIQAL APRILIO",
+    "kelas": 9.3,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-079",
-    "nama" : "Imelda Putri Anggraini",
-    "nilai" : 9.3,
-    "status" : "LULUS"
+    "nama": "Imelda Putri Anggraini",
+    "kelas": 9.3,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-080",
-    "nama" : "Intan Nafisah",
-    "nilai" : 9.3,
-    "status" : "LULUS"
+    "nama": "Intan Nafisah",
+    "kelas": 9.3,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-081",
-    "nama" : "JESY",
-    "nilai" : 9.3,
-    "status" : "LULUS"
+    "nama": "JESY",
+    "kelas": 9.3,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-082",
-    "nama" : "KRIS MAULANA",
-    "nilai" : 9.3,
-    "status" : "LULUS"
+    "nama": "KRIS MAULANA",
+    "kelas": 9.3,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-083",
-    "nama" : "M. Chrisnanda Fadilah",
-    "nilai" : 9.3,
-    "status" : "LULUS"
+    "nama": "M. Chrisnanda Fadilah",
+    "kelas": 9.3,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-084",
-    "nama" : "M. GALANG AL FARISQI",
-    "nilai" : 9.3,
-    "status" : "LULUS"
+    "nama": "M. GALANG AL FARISQI",
+    "kelas": 9.3,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-085",
-    "nama" : "Mifftahhul Angga Saputra",
-    "nilai" : 9.3,
-    "status" : "LULUS"
+    "nama": "Mifftahhul Angga Saputra",
+    "kelas": 9.3,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-086",
-    "nama" : "MUHAMAD RIFQI",
-    "nilai" : 9.3,
-    "status" : "LULUS"
+    "nama": "MUHAMAD RIFQI",
+    "kelas": 9.3,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-087",
-    "nama" : "NABILA SALWA RAMADHANI",
-    "nilai" : 9.3,
-    "status" : "LULUS"
+    "nama": "NABILA SALWA RAMADHANI",
+    "kelas": 9.3,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-088",
-    "nama" : "NOVALIA MIANA PUTRI",
-    "nilai" : 9.3,
-    "status" : "LULUS"
+    "nama": "NOVALIA MIANA PUTRI",
+    "kelas": 9.3,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-089",
-    "nama" : "RAFI SAPUTRA",
-    "nilai" : 9.3,
-    "status" : "LULUS"
+    "nama": "RAFI SAPUTRA",
+    "kelas": 9.3,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-090",
-    "nama" : "Rinanda Pratiwi",
-    "nilai" : 9.3,
-    "status" : "LULUS"
+    "nama": "Rinanda Pratiwi",
+    "kelas": 9.3,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-091",
-    "nama" : "TIKA WULANDARI",
-    "nilai" : 9.3,
-    "status" : "LULUS"
+    "nama": "TIKA WULANDARI",
+    "kelas": 9.3,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-092",
-    "nama" : "ZAHRA ROSALINA RAMBE",
-    "nilai" : 9.3,
-    "status" : "LULUS"
+    "nama": "ZAHRA ROSALINA RAMBE",
+    "kelas": 9.3,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-093",
-    "nama" : "Ahmad Ardiansah",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "Ahmad Ardiansah",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-094",
-    "nama" : "Aini Ardiyanti",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "Aini Ardiyanti",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-095",
-    "nama" : "AINI VERONICA",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "AINI VERONICA",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-096",
-    "nama" : "AJENG PUTRI ADINDA",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "AJENG PUTRI ADINDA",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-097",
-    "nama" : "AJI HAMDANI",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "AJI HAMDANI",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-098",
-    "nama" : "Arya Pratama",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "Arya Pratama",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-099",
-    "nama" : "Bella Arofah",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "Bella Arofah",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-100",
-    "nama" : "DINDA SAPUTRI",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "DINDA SAPUTRI",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-101",
-    "nama" : "FARHAN AZIS SAPUTRA",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "FARHAN AZIS SAPUTRA",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-102",
-    "nama" : "FRANESHA",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "FRANESHA",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-103",
-    "nama" : "GHANIE MALIQAL",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "GHANIE MALIQAL",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-104",
-    "nama" : "Haidar Aly Pratama",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "Haidar Aly Pratama",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-105",
-    "nama" : "JAHIRA LETISYA",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "JAHIRA LETISYA",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-106",
-    "nama" : "JANUAR PARDAN AKBAR",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "JANUAR PARDAN AKBAR",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-107",
-    "nama" : "KARTIKA PRIMA HATI",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "KARTIKA PRIMA HATI",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-108",
-    "nama" : "KURNIA BINTANG",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "KURNIA BINTANG",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-109",
-    "nama" : "M. Dilliansyah Firdaus",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "M. Dilliansyah Firdaus",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-110",
-    "nama" : "M. FAUZI ALI",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "M. FAUZI ALI",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-111",
-    "nama" : "MARSYA ENJELINA BR SINURAT",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "MARSYA ENJELINA BR SINURAT",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-112",
-    "nama" : "MUHAMAD RIZKI RAFAEL",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "MUHAMAD RIZKI RAFAEL",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-113",
-    "nama" : "MUHAMMAD DIVO ZUINDRA",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "MUHAMMAD DIVO ZUINDRA",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-114",
-    "nama" : "MUHAMMAD HAIKHAL",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "MUHAMMAD HAIKHAL",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-115",
-    "nama" : "MUTIARA HAFIDZA",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "MUTIARA HAFIDZA",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-116",
-    "nama" : "NABILLAH PUTRI",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "NABILLAH PUTRI",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-117",
-    "nama" : "NICKO NIWA MAHESA",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "NICKO NIWA MAHESA",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-118",
-    "nama" : "NURIAH SARI",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "NURIAH SARI",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-119",
-    "nama" : "RANGGA RADITTYA PRATAMA",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "RANGGA RADITTYA PRATAMA",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-120",
-    "nama" : "RIO ALFERRO REHAN",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "RIO ALFERRO REHAN",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-121",
-    "nama" : "Salsa Nabila Putri",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "Salsa Nabila Putri",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-122",
-    "nama" : "SELA PUTRI",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "SELA PUTRI",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-123",
-    "nama" : "ZACKY AZHURA FATIH",
-    "nilai" : 9.4,
-    "status" : "LULUS"
+    "nama": "ZACKY AZHURA FATIH",
+    "kelas": 9.4,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-124",
-    "nama" : "ALDINA NUR ARDHA",
-    "nilai" : 9.5,
-    "status" : "LULUS"
+    "nama": "ALDINA NUR ARDHA",
+    "kelas": 9.5,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-125",
-    "nama" : "ALYA RAHMA WATI",
-    "nilai" : 9.5,
-    "status" : "LULUS"
+    "nama": "ALYA RAHMA WATI",
+    "kelas": 9.5,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-126",
-    "nama" : "Alzena Sofitri",
-    "nilai" : 9.5,
-    "status" : "LULUS"
+    "nama": "Alzena Sofitri",
+    "kelas": 9.5,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-127",
-    "nama" : "APRIL REZKY AZ ZAHRA",
-    "nilai" : 9.5,
-    "status" : "LULUS"
+    "nama": "APRIL REZKY AZ ZAHRA",
+    "kelas": 9.5,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-128",
-    "nama" : "BUNGA ANGGITA AYUDHIAN",
-    "nilai" : 9.5,
-    "status" : "LULUS"
+    "nama": "BUNGA ANGGITA AYUDHIAN",
+    "kelas": 9.5,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-129",
-    "nama" : "Dava Ardiyansyah",
-    "nilai" : 9.5,
-    "status" : "LULUS"
+    "nama": "Dava Ardiyansyah",
+    "kelas": 9.5,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-130",
-    "nama" : "Dinda Arum",
-    "nilai" : 9.5,
-    "status" : "LULUS"
+    "nama": "Dinda Arum",
+    "kelas": 9.5,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-131",
-    "nama" : "DWI HERMAWAN ICHWANTO",
-    "nilai" : 9.5,
-    "status" : "LULUS"
+    "nama": "DWI HERMAWAN ICHWANTO",
+    "kelas": 9.5,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-132",
-    "nama" : "FARHAN DESTAMA",
-    "nilai" : 9.5,
-    "status" : "LULUS"
+    "nama": "FARHAN DESTAMA",
+    "kelas": 9.5,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-133",
-    "nama" : "Farrel Al Gifari",
-    "nilai" : 9.5,
-    "status" : "LULUS"
+    "nama": "Farrel Al Gifari",
+    "kelas": 9.5,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-134",
-    "nama" : "Fitri Nurayuni",
-    "nilai" : 9.5,
-    "status" : "LULUS"
+    "nama": "Fitri Nurayuni",
+    "kelas": 9.5,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-135",
-    "nama" : "GISELLA HERGA PUTRI",
-    "nilai" : 9.5,
-    "status" : "LULUS"
+    "nama": "GISELLA HERGA PUTRI",
+    "kelas": 9.5,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-136",
-    "nama" : "Hafizh Muhammad Kaka",
-    "nilai" : 9.5,
-    "status" : "LULUS"
+    "nama": "Hafizh Muhammad Kaka",
+    "kelas": 9.5,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-137",
-    "nama" : "Kartika Putri",
-    "nilai" : 9.5,
-    "status" : "LULUS"
+    "nama": "Kartika Putri",
+    "kelas": 9.5,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-138",
-    "nama" : "KIKI SAFITRI",
-    "nilai" : 9.5,
-    "status" : "LULUS"
+    "nama": "KIKI SAFITRI",
+    "kelas": 9.5,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-139",
-    "nama" : "M Syfikri",
-    "nilai" : 9.5,
-    "status" : "LULUS"
+    "nama": "M Syfikri",
+    "kelas": 9.5,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-140",
-    "nama" : "M. FICKO PRATAMA ISMAIL",
-    "nilai" : 9.5,
-    "status" : "LULUS"
+    "nama": "M. FICKO PRATAMA ISMAIL",
+    "kelas": 9.5,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-141",
-    "nama" : "M. Marvel Ardiansah",
-    "nilai" : 9.5,
-    "status" : "LULUS"
+    "nama": "M. Marvel Ardiansah",
+    "kelas": 9.5,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-142",
-    "nama" : "M.LABIB HAIDAR",
-    "nilai" : 9.5,
-    "status" : "LULUS"
+    "nama": "M.LABIB HAIDAR",
+    "kelas": 9.5,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-143",
-    "nama" : "MUHAMAD SABIYAN ALMALIK",
-    "nilai" : 9.5,
-    "status" : "LULUS"
+    "nama": "MUHAMAD SABIYAN ALMALIK",
+    "kelas": 9.5,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-144",
-    "nama" : "MUHAMMAD ALFAJRI DEFANDI",
-    "nilai" : 9.5,
-    "status" : "LULUS"
+    "nama": "MUHAMMAD ALFAJRI DEFANDI",
+    "kelas": 9.5,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-145",
-    "nama" : "Naila Pitri Yasmin",
-    "nilai" : 9.5,
-    "status" : "LULUS"
+    "nama": "Naila Pitri Yasmin",
+    "kelas": 9.5,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-146",
-    "nama" : "RAFFA ANGGARA",
-    "nilai" : 9.5,
-    "status" : "LULUS"
+    "nama": "RAFFA ANGGARA",
+    "kelas": 9.5,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-147",
-    "nama" : "RAHMAT WIJAYA",
-    "nilai" : 9.5,
-    "status" : "LULUS"
+    "nama": "RAHMAT WIJAYA",
+    "kelas": 9.5,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-148",
-    "nama" : "Rayyan Ahmad Pratama",
-    "nilai" : 9.5,
-    "status" : "LULUS"
+    "nama": "Rayyan Ahmad Pratama",
+    "kelas": 9.5,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-149",
-    "nama" : "Rizka Zuliza Anna Tassya",
-    "nilai" : 9.5,
-    "status" : "LULUS"
+    "nama": "Rizka Zuliza Anna Tassya",
+    "kelas": 9.5,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-150",
-    "nama" : "SEPTIO DIMAS SYAPUTRA",
-    "nilai" : 9.5,
-    "status" : "LULUS"
+    "nama": "SEPTIO DIMAS SYAPUTRA",
+    "kelas": 9.5,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-151",
-    "nama" : "Syifa Setianti",
-    "nilai" : 9.5,
-    "status" : "LULUS"
+    "nama": "Syifa Setianti",
+    "kelas": 9.5,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-152",
-    "nama" : "ZAHRA LAILA AZHAR",
-    "nilai" : 9.5,
-    "status" : "LULUS"
+    "nama": "ZAHRA LAILA AZHAR",
+    "kelas": 9.5,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-153",
-    "nama" : "Alfa Rizki",
-    "nilai" : 9.6,
-    "status" : "LULUS"
+    "nama": "Alfa Rizki",
+    "kelas": 9.6,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-154",
-    "nama" : "DEVI FITRI YANI",
-    "nilai" : 9.6,
-    "status" : "LULUS"
+    "nama": "DEVI FITRI YANI",
+    "kelas": 9.6,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-155",
-    "nama" : "Dian Pusfika Sari",
-    "nilai" : 9.6,
-    "status" : "LULUS"
+    "nama": "Dian Pusfika Sari",
+    "kelas": 9.6,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-156",
-    "nama" : "EDO PRASTIAN MAULANA",
-    "nilai" : 9.6,
-    "status" : "LULUS"
+    "nama": "EDO PRASTIAN MAULANA",
+    "kelas": 9.6,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-157",
-    "nama" : "FARHAN HABIB MAULANA",
-    "nilai" : 9.6,
-    "status" : "LULUS"
+    "nama": "FARHAN HABIB MAULANA",
+    "kelas": 9.6,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-158",
-    "nama" : "Fitri Yuliyanti",
-    "nilai" : 9.6,
-    "status" : "LULUS"
+    "nama": "Fitri Yuliyanti",
+    "kelas": 9.6,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-159",
-    "nama" : "Hafidjah Syakila Imanuddin",
-    "nilai" : 9.6,
-    "status" : "LULUS"
+    "nama": "Hafidjah Syakila Imanuddin",
+    "kelas": 9.6,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-160",
-    "nama" : "HAFISA SYAHIRAMADANI",
-    "nilai" : 9.6,
-    "status" : "LULUS"
+    "nama": "HAFISA SYAHIRAMADANI",
+    "kelas": 9.6,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-161",
-    "nama" : "Keandre Rafif Lantara",
-    "nilai" : 9.6,
-    "status" : "LULUS"
+    "nama": "Keandre Rafif Lantara",
+    "kelas": 9.6,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-162",
-    "nama" : "KEISYA DZIKRINA SOFYAN",
-    "nilai" : 9.6,
-    "status" : "LULUS"
+    "nama": "KEISYA DZIKRINA SOFYAN",
+    "kelas": 9.6,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-163",
-    "nama" : "Khoirunnisa",
-    "nilai" : 9.6,
-    "status" : "LULUS"
+    "nama": "Khoirunnisa",
+    "kelas": 9.6,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-164",
-    "nama" : "Kyla Azalia Lesmana Putri",
-    "nilai" : 9.6,
-    "status" : "LULUS"
+    "nama": "Kyla Azalia Lesmana Putri",
+    "kelas": 9.6,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-165",
-    "nama" : "LYANA",
-    "nilai" : 9.6,
-    "status" : "LULUS"
+    "nama": "LYANA",
+    "kelas": 9.6,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-166",
-    "nama" : "M. Hasbi",
-    "nilai" : 9.6,
-    "status" : "LULUS"
+    "nama": "M. Hasbi",
+    "kelas": 9.6,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-167",
-    "nama" : "M. IKBAL ARDANA",
-    "nilai" : 9.6,
-    "status" : "LULUS"
+    "nama": "M. IKBAL ARDANA",
+    "kelas": 9.6,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-168",
-    "nama" : "M. MALIK",
-    "nilai" : 9.6,
-    "status" : "LULUS"
+    "nama": "M. MALIK",
+    "kelas": 9.6,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-169",
-    "nama" : "M.RIDWAN",
-    "nilai" : 9.6,
-    "status" : "LULUS"
+    "nama": "M.RIDWAN",
+    "kelas": 9.6,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-170",
-    "nama" : "M.ZAVAS AL-FARIZI",
-    "nilai" : 9.6,
-    "status" : "LULUS"
+    "nama": "M.ZAVAS AL-FARIZI",
+    "kelas": 9.6,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-171",
-    "nama" : "Muhamad Alfaridzi",
-    "nilai" : 9.6,
-    "status" : "LULUS"
+    "nama": "Muhamad Alfaridzi",
+    "kelas": 9.6,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-172",
-    "nama" : "Muhammad Alhafidz",
-    "nilai" : 9.6,
-    "status" : "LULUS"
+    "nama": "Muhammad Alhafidz",
+    "kelas": 9.6,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-173",
-    "nama" : "Muhammad Nur Alif",
-    "nilai" : 9.6,
-    "status" : "LULUS"
+    "nama": "Muhammad Nur Alif",
+    "kelas": 9.6,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-174",
-    "nama" : "NAINA YULIANA",
-    "nilai" : 9.6,
-    "status" : "LULUS"
+    "nama": "NAINA YULIANA",
+    "kelas": 9.6,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-175",
-    "nama" : "Princessa Denova",
-    "nilai" : 9.6,
-    "status" : "LULUS"
+    "nama": "Princessa Denova",
+    "kelas": 9.6,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-176",
-    "nama" : "RAHMAT HIDAYATULLAH",
-    "nilai" : 9.6,
-    "status" : "LULUS"
+    "nama": "RAHMAT HIDAYATULLAH",
+    "kelas": 9.6,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-177",
-    "nama" : "Raka Pratama",
-    "nilai" : 9.6,
-    "status" : "LULUS"
+    "nama": "Raka Pratama",
+    "kelas": 9.6,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-178",
-    "nama" : "RIZKY APRILIAN",
-    "nilai" : 9.6,
-    "status" : "LULUS"
+    "nama": "RIZKY APRILIAN",
+    "kelas": 9.6,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-179",
-    "nama" : "Salsabila Rahadatul Aisy",
-    "nilai" : 9.6,
-    "status" : "LULUS"
+    "nama": "Salsabila Rahadatul Aisy",
+    "kelas": 9.6,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-180",
-    "nama" : "SYAFA AULIA FASHI",
-    "nilai" : 9.6,
-    "status" : "LULUS"
+    "nama": "SYAFA AULIA FASHI",
+    "kelas": 9.6,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-181",
-    "nama" : "ZIVANA AMIRA TSANI",
-    "nilai" : 9.6,
-    "status" : "LULUS"
+    "nama": "ZIVANA AMIRA TSANI",
+    "kelas": 9.6,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-182",
-    "nama" : "Alfath Zhilo",
-    "nilai" : 9.7,
-    "status" : "LULUS"
+    "nama": "Alfath Zhilo",
+    "kelas": 9.7,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-183",
-    "nama" : "ANNAFI OZAM MALIK",
-    "nilai" : 9.7,
-    "status" : "LULUS"
+    "nama": "ANNAFI OZAM MALIK",
+    "kelas": 9.7,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-184",
-    "nama" : "ARYADILLAH",
-    "nilai" : 9.7,
-    "status" : "LULUS"
+    "nama": "ARYADILLAH",
+    "kelas": 9.7,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-185",
-    "nama" : "AUREAL APRILIA SETIAWAN",
-    "nilai" : 9.7,
-    "status" : "LULUS"
+    "nama": "AUREAL APRILIA SETIAWAN",
+    "kelas": 9.7,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-186",
-    "nama" : "AYU MAULA NASUHA",
-    "nilai" : 9.7,
-    "status" : "LULUS"
+    "nama": "AYU MAULA NASUHA",
+    "kelas": 9.7,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-187",
-    "nama" : "Chelsea Claudia Mega",
-    "nilai" : 9.7,
-    "status" : "LULUS"
+    "nama": "Chelsea Claudia Mega",
+    "kelas": 9.7,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-188",
-    "nama" : "ESTER FELICIA DAMANIK",
-    "nilai" : 9.7,
-    "status" : "LULUS"
+    "nama": "ESTER FELICIA DAMANIK",
+    "kelas": 9.7,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-189",
-    "nama" : "FARIDA QONITA",
-    "nilai" : 9.7,
-    "status" : "LULUS"
+    "nama": "FARIDA QONITA",
+    "kelas": 9.7,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-190",
-    "nama" : "Farsal Al Sikri",
-    "nilai" : 9.7,
-    "status" : "LULUS"
+    "nama": "Farsal Al Sikri",
+    "kelas": 9.7,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-191",
-    "nama" : "Grace Zivilia",
-    "nilai" : 9.7,
-    "status" : "LULUS"
+    "nama": "Grace Zivilia",
+    "kelas": 9.7,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-192",
-    "nama" : "Intan Firda Irmala",
-    "nilai" : 9.7,
-    "status" : "LULUS"
+    "nama": "Intan Firda Irmala",
+    "kelas": 9.7,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-193",
-    "nama" : "JENNYA ANTIKA",
-    "nilai" : 9.7,
-    "status" : "LULUS"
+    "nama": "JENNYA ANTIKA",
+    "kelas": 9.7,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-194",
-    "nama" : "KEISHA DINDA PRAMESTI",
-    "nilai" : 9.7,
-    "status" : "LULUS"
+    "nama": "KEISHA DINDA PRAMESTI",
+    "kelas": 9.7,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-195",
-    "nama" : "KIRANA AURELLIE SHAMARETA",
-    "nilai" : 9.7,
-    "status" : "LULUS"
+    "nama": "KIRANA AURELLIE SHAMARETA",
+    "kelas": 9.7,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-196",
-    "nama" : "M. MUSTAKIM",
-    "nilai" : 9.7,
-    "status" : "LULUS"
+    "nama": "M. MUSTAKIM",
+    "kelas": 9.7,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-197",
-    "nama" : "Muhammad Armanzya",
-    "nilai" : 9.7,
-    "status" : "LULUS"
+    "nama": "Muhammad Armanzya",
+    "kelas": 9.7,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-198",
-    "nama" : "MUHAMMAD FHIMAN HIDAIT",
-    "nilai" : 9.7,
-    "status" : "LULUS"
+    "nama": "MUHAMMAD FHIMAN HIDAIT",
+    "kelas": 9.7,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-199",
-    "nama" : "Muhammad Rhadit Ghofur Setiawan",
-    "nilai" : 9.7,
-    "status" : "LULUS"
+    "nama": "Muhammad Rhadit Ghofur Setiawan",
+    "kelas": 9.7,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-200",
-    "nama" : "NAJIYAH REPISA PUTRI",
-    "nilai" : 9.7,
-    "status" : "LULUS"
+    "nama": "NAJIYAH REPISA PUTRI",
+    "kelas": 9.7,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-201",
-    "nama" : "Nopal Aryanto",
-    "nilai" : 9.7,
-    "status" : "LULUS"
+    "nama": "Nopal Aryanto",
+    "kelas": 9.7,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-202",
-    "nama" : "NOPITA",
-    "nilai" : 9.7,
-    "status" : "LULUS"
+    "nama": "NOPITA",
+    "kelas": 9.7,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-203",
-    "nama" : "Putri Aprillia",
-    "nilai" : 9.7,
-    "status" : "LULUS"
+    "nama": "Putri Aprillia",
+    "kelas": 9.7,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-204",
-    "nama" : "Rakha Febriansyah",
-    "nilai" : 9.7,
-    "status" : "LULUS"
+    "nama": "Rakha Febriansyah",
+    "kelas": 9.7,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-205",
-    "nama" : "Rizky Aditya",
-    "nilai" : 9.7,
-    "status" : "LULUS"
+    "nama": "Rizky Aditya",
+    "kelas": 9.7,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-206",
-    "nama" : "RIZKY DWI PRATAMA",
-    "nilai" : 9.7,
-    "status" : "LULUS"
+    "nama": "RIZKY DWI PRATAMA",
+    "kelas": 9.7,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-207",
-    "nama" : "SERA VINA PANCA YANAH",
-    "nilai" : 9.7,
-    "status" : "LULUS"
+    "nama": "SERA VINA PANCA YANAH",
+    "kelas": 9.7,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-208",
-    "nama" : "SITI NURANISA",
-    "nilai" : 9.7,
-    "status" : "LULUS"
+    "nama": "SITI NURANISA",
+    "kelas": 9.7,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-209",
-    "nama" : "WAHYU APRIYANTO PRATAMA",
-    "nilai" : 9.7,
-    "status" : "LULUS"
+    "nama": "WAHYU APRIYANTO PRATAMA",
+    "kelas": 9.7,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-210",
-    "nama" : "Anissa Putri Ramadhani",
-    "nilai" : 9.8,
-    "status" : "LULUS"
+    "nama": "Anissa Putri Ramadhani",
+    "kelas": 9.8,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-211",
-    "nama" : "Aulia Nurahma",
-    "nilai" : 9.8,
-    "status" : "LULUS"
+    "nama": "Aulia Nurahma",
+    "kelas": 9.8,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-212",
-    "nama" : "Aura Sifa Khadijah",
-    "nilai" : 9.8,
-    "status" : "LULUS"
+    "nama": "Aura Sifa Khadijah",
+    "kelas": 9.8,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-213",
-    "nama" : "BAGUS OKA SAPUTRA",
-    "nilai" : 9.8,
-    "status" : "LULUS"
+    "nama": "BAGUS OKA SAPUTRA",
+    "kelas": 9.8,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-214",
-    "nama" : "DAVINES SANDHO APRIANO",
-    "nilai" : 9.8,
-    "status" : "LULUS"
+    "nama": "DAVINES SANDHO APRIANO",
+    "kelas": 9.8,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-215",
-    "nama" : "DENIS PRAYOGA",
-    "nilai" : 9.8,
-    "status" : "LULUS"
+    "nama": "DENIS PRAYOGA",
+    "kelas": 9.8,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-216",
-    "nama" : "FAIZ ARDIANSYAH. S",
-    "nilai" : 9.8,
-    "status" : "LULUS"
+    "nama": "FAIZ ARDIANSYAH. S",
+    "kelas": 9.8,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-217",
-    "nama" : "FAYYAZA FATIMAH",
-    "nilai" : 9.8,
-    "status" : "LULUS"
+    "nama": "FAYYAZA FATIMAH",
+    "kelas": 9.8,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-218",
-    "nama" : "Fazar Hermansyah",
-    "nilai" : 9.8,
-    "status" : "LULUS"
+    "nama": "Fazar Hermansyah",
+    "kelas": 9.8,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-219",
-    "nama" : "Giovani Saputra",
-    "nilai" : 9.8,
-    "status" : "LULUS"
+    "nama": "Giovani Saputra",
+    "kelas": 9.8,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-220",
-    "nama" : "KEISYA FITRIYANI",
-    "nilai" : 9.8,
-    "status" : "LULUS"
+    "nama": "KEISYA FITRIYANI",
+    "kelas": 9.8,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-221",
-    "nama" : "Khansa Nari Shabihah",
-    "nilai" : 9.8,
-    "status" : "LULUS"
+    "nama": "Khansa Nari Shabihah",
+    "kelas": 9.8,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-222",
-    "nama" : "LEIDITA SUBAGIO",
-    "nilai" : 9.8,
-    "status" : "LULUS"
+    "nama": "LEIDITA SUBAGIO",
+    "kelas": 9.8,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-223",
-    "nama" : "M. BIMA PRATAMA",
-    "nilai" : 9.8,
-    "status" : "LULUS"
+    "nama": "M. BIMA PRATAMA",
+    "kelas": 9.8,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-224",
-    "nama" : "M. Raehan Hidayat",
-    "nilai" : 9.8,
-    "status" : "LULUS"
+    "nama": "M. Raehan Hidayat",
+    "kelas": 9.8,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-225",
-    "nama" : "M. RAFFI AL FAHREJI",
-    "nilai" : 9.8,
-    "status" : "LULUS"
+    "nama": "M. RAFFI AL FAHREJI",
+    "kelas": 9.8,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-226",
-    "nama" : "M. RIFQI FAHREZI",
-    "nilai" : 9.8,
-    "status" : "LULUS"
+    "nama": "M. RIFQI FAHREZI",
+    "kelas": 9.8,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-227",
-    "nama" : "Muhammad Iqbal",
-    "nilai" : 9.8,
-    "status" : "LULUS"
+    "nama": "Muhammad Iqbal",
+    "kelas": 9.8,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-228",
-    "nama" : "MUHAMMAD REYVAN HAKIM",
-    "nilai" : 9.8,
-    "status" : "LULUS"
+    "nama": "MUHAMMAD REYVAN HAKIM",
+    "kelas": 9.8,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-229",
-    "nama" : "MUHAMMAD SYAKHI F",
-    "nilai" : 9.8,
-    "status" : "LULUS"
+    "nama": "MUHAMMAD SYAKHI F",
+    "kelas": 9.8,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-230",
-    "nama" : "Najwa Rahma Agustina",
-    "nilai" : 9.8,
-    "status" : "LULUS"
+    "nama": "Najwa Rahma Agustina",
+    "kelas": 9.8,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-231",
-    "nama" : "Naura Sabila Putri",
-    "nilai" : 9.8,
-    "status" : "LULUS"
+    "nama": "Naura Sabila Putri",
+    "kelas": 9.8,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-232",
-    "nama" : "Odi Saputra",
-    "nilai" : 9.8,
-    "status" : "LULUS"
+    "nama": "Odi Saputra",
+    "kelas": 9.8,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-233",
-    "nama" : "PUTRI DAMAYANTI",
-    "nilai" : 9.8,
-    "status" : "LULUS"
+    "nama": "PUTRI DAMAYANTI",
+    "kelas": 9.8,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-234",
-    "nama" : "RAYA RAZKY AL-KHAFI",
-    "nilai" : 9.8,
-    "status" : "LULUS"
+    "nama": "RAYA RAZKY AL-KHAFI",
+    "kelas": 9.8,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-235",
-    "nama" : "RAYYA ADITYA EVANDI",
-    "nilai" : 9.8,
-    "status" : "LULUS"
+    "nama": "RAYYA ADITYA EVANDI",
+    "kelas": 9.8,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-236",
-    "nama" : "SHEILA PUTRI PASIA",
-    "nilai" : 9.8,
-    "status" : "LULUS"
+    "nama": "SHEILA PUTRI PASIA",
+    "kelas": 9.8,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-237",
-    "nama" : "Tegar Ryski Ramadhan",
-    "nilai" : 9.8,
-    "status" : "LULUS"
+    "nama": "Tegar Ryski Ramadhan",
+    "kelas": 9.8,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-238",
-    "nama" : "VIANDRA JANUAR ZIO AFANDI",
-    "nilai" : 9.8,
-    "status" : "LULUS"
+    "nama": "VIANDRA JANUAR ZIO AFANDI",
+    "kelas": 9.8,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-239",
-    "nama" : "AKBAR MAULANA",
-    "nilai" : 9.9,
-    "status" : "LULUS"
+    "nama": "AKBAR MAULANA",
+    "kelas": 9.9,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-240",
-    "nama" : "ALFFIN MANDALA SAPUTRA",
-    "nilai" : 9.9,
-    "status" : "LULUS"
+    "nama": "ALFFIN MANDALA SAPUTRA",
+    "kelas": 9.9,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-241",
-    "nama" : "ALIEZHA NUR AZ ZAHRA",
-    "nilai" : 9.9,
-    "status" : "LULUS"
+    "nama": "ALIEZHA NUR AZ ZAHRA",
+    "kelas": 9.9,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-242",
-    "nama" : "ALIF ADI RIZKI",
-    "nilai" : 9.9,
-    "status" : "LULUS"
+    "nama": "ALIF ADI RIZKI",
+    "kelas": 9.9,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-243",
-    "nama" : "DENIS PUTRA MEYKA",
-    "nilai" : 9.9,
-    "status" : "LULUS"
+    "nama": "DENIS PUTRA MEYKA",
+    "kelas": 9.9,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-244",
-    "nama" : "DWI KOMALA SARI",
-    "nilai" : 9.9,
-    "status" : "LULUS"
+    "nama": "DWI KOMALA SARI",
+    "kelas": 9.9,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-245",
-    "nama" : "Febya Zyahrani",
-    "nilai" : 9.9,
-    "status" : "LULUS"
+    "nama": "Febya Zyahrani",
+    "kelas": 9.9,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-246",
-    "nama" : "Fikri Zovian Syahputra",
-    "nilai" : 9.9,
-    "status" : "LULUS"
+    "nama": "Fikri Zovian Syahputra",
+    "kelas": 9.9,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-247",
-    "nama" : "GINA AULIA PUTRI",
-    "nilai" : 9.9,
-    "status" : "LULUS"
+    "nama": "GINA AULIA PUTRI",
+    "kelas": 9.9,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-248",
-    "nama" : "KEKE AZ-ZAHRA",
-    "nilai" : 9.9,
-    "status" : "LULUS"
+    "nama": "KEKE AZ-ZAHRA",
+    "kelas": 9.9,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-249",
-    "nama" : "Kesya Novellia",
-    "nilai" : 9.9,
-    "status" : "LULUS"
+    "nama": "Kesya Novellia",
+    "kelas": 9.9,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-250",
-    "nama" : "M. FEBRIAN ICHSAN",
-    "nilai" : 9.9,
-    "status" : "LULUS"
+    "nama": "M. FEBRIAN ICHSAN",
+    "kelas": 9.9,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-251",
-    "nama" : "M. HAYKAL",
-    "nilai" : 9.9,
-    "status" : "LULUS"
+    "nama": "M. HAYKAL",
+    "kelas": 9.9,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-252",
-    "nama" : "M. Sani",
-    "nilai" : 9.9,
-    "status" : "LULUS"
+    "nama": "M. Sani",
+    "kelas": 9.9,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-253",
-    "nama" : "M. Wildan Saputra",
-    "nilai" : 9.9,
-    "status" : "LULUS"
+    "nama": "M. Wildan Saputra",
+    "kelas": 9.9,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-254",
-    "nama" : "Marsya Adelia Dwiyanti",
-    "nilai" : 9.9,
-    "status" : "LULUS"
+    "nama": "Marsya Adelia Dwiyanti",
+    "kelas": 9.9,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-255",
-    "nama" : "MAULANA MUHAMMAD RAFFA",
-    "nilai" : 9.9,
-    "status" : "LULUS"
+    "nama": "MAULANA MUHAMMAD RAFFA",
+    "kelas": 9.9,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-256",
-    "nama" : "Muhamad Arya Alfarizi",
-    "nilai" : 9.9,
-    "status" : "LULUS"
+    "nama": "Muhamad Arya Alfarizi",
+    "kelas": 9.9,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-257",
-    "nama" : "Muhammad Luthfi Bagaskara",
-    "nilai" : 9.9,
-    "status" : "LULUS"
+    "nama": "Muhammad Luthfi Bagaskara",
+    "kelas": 9.9,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-258",
-    "nama" : "MUHAMMAD RASYID",
-    "nilai" : 9.9,
-    "status" : "LULUS"
+    "nama": "MUHAMMAD RASYID",
+    "kelas": 9.9,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-259",
-    "nama" : "Muhammad Wahyu Nugroho",
-    "nilai" : 9.9,
-    "status" : "LULUS"
+    "nama": "Muhammad Wahyu Nugroho",
+    "kelas": 9.9,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-260",
-    "nama" : "Natasya Aulia Putri",
-    "nilai" : 9.9,
-    "status" : "LULUS"
+    "nama": "Natasya Aulia Putri",
+    "kelas": 9.9,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-261",
-    "nama" : "Okta Aditya",
-    "nilai" : 9.9,
-    "status" : "LULUS"
+    "nama": "Okta Aditya",
+    "kelas": 9.9,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-262",
-    "nama" : "PUTRI FARDINI",
-    "nilai" : 9.9,
-    "status" : "LULUS"
+    "nama": "PUTRI FARDINI",
+    "kelas": 9.9,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-263",
-    "nama" : "RASYA ADITYA PRATAMA",
-    "nilai" : 9.9,
-    "status" : "LULUS"
+    "nama": "RASYA ADITYA PRATAMA",
+    "kelas": 9.9,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-264",
-    "nama" : "SAIDAH NURHAFIFAH",
-    "nilai" : 9.9,
-    "status" : "LULUS"
+    "nama": "SAIDAH NURHAFIFAH",
+    "kelas": 9.9,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-265",
-    "nama" : "SITI FATIMA AZAHRA",
-    "nilai" : 9.9,
-    "status" : "LULUS"
+    "nama": "SITI FATIMA AZAHRA",
+    "kelas": 9.9,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-266",
-    "nama" : "WULAN SARI",
-    "nilai" : 9.9,
-    "status" : "LULUS"
+    "nama": "WULAN SARI",
+    "kelas": 9.9,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-267",
-    "nama" : "ZEVANYA AURELIA MOZA",
-    "nilai" : 9.9,
-    "status" : "LULUS"
+    "nama": "ZEVANYA AURELIA MOZA",
+    "kelas": 9.9,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-268",
-    "nama" : "ANGGARA AFGANSYAH RAMA",
-    "nilai" : 9.10,
-    "status" : "LULUS"
+    "nama": "ANGGARA AFGANSYAH RAMA",
+    "kelas": 9.10,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-269",
-    "nama" : "ANISA RAHMAWATI",
-    "nilai" : 9.10,
-    "status" : "LULUS"
+    "nama": "ANISA RAHMAWATI",
+    "kelas": 9.10,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-270",
-    "nama" : "DENIS SANJAYA",
-    "nilai" : 9.10,
-    "status" : "LULUS"
+    "nama": "DENIS SANJAYA",
+    "kelas": 9.10,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-271",
-    "nama" : "DWI YUDIANTO",
-    "nilai" : 9.10,
-    "status" : "LULUS"
+    "nama": "DWI YUDIANTO",
+    "kelas": 9.10,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-272",
-    "nama" : "Dwifa Shinta Pratiwi",
-    "nilai" : 9.10,
-    "status" : "LULUS"
+    "nama": "Dwifa Shinta Pratiwi",
+    "kelas": 9.10,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-273",
-    "nama" : "Efinda Syilbi",
-    "nilai" : 9.10,
-    "status" : "LULUS"
+    "nama": "Efinda Syilbi",
+    "kelas": 9.10,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-274",
-    "nama" : "EREN MAULIDYAH",
-    "nilai" : 9.10,
-    "status" : "LULUS"
+    "nama": "EREN MAULIDYAH",
+    "kelas": 9.10,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-275",
-    "nama" : "FITRA ARDIANSYAH",
-    "nilai" : 9.10,
-    "status" : "LULUS"
+    "nama": "FITRA ARDIANSYAH",
+    "kelas": 9.10,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-276",
-    "nama" : "Gianza Permana",
-    "nilai" : 9.10,
-    "status" : "LULUS"
+    "nama": "Gianza Permana",
+    "kelas": 9.10,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-277",
-    "nama" : "JANUAR RIZKY HARTONO",
-    "nilai" : 9.10,
-    "status" : "LULUS"
+    "nama": "JANUAR RIZKY HARTONO",
+    "kelas": 9.10,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-278",
-    "nama" : "Keysa Maharani",
-    "nilai" : 9.10,
-    "status" : "LULUS"
+    "nama": "Keysa Maharani",
+    "kelas": 9.10,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-279",
-    "nama" : "KHANSA ALIFAH MAULIDIA",
-    "nilai" : 9.10,
-    "status" : "LULUS"
+    "nama": "KHANSA ALIFAH MAULIDIA",
+    "kelas": 9.10,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-280",
-    "nama" : "M. ABIYAN FADILLAH",
-    "nilai" : 9.10,
-    "status" : "LULUS"
+    "nama": "M. ABIYAN FADILLAH",
+    "kelas": 9.10,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-281",
-    "nama" : "M.ANGGI PRATAMA",
-    "nilai" : 9.10,
-    "status" : "LULUS"
+    "nama": "M.ANGGI PRATAMA",
+    "kelas": 9.10,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-282",
-    "nama" : "Muhammad Raditya Rizky",
-    "nilai" : 9.10,
-    "status" : "LULUS"
+    "nama": "Muhammad Raditya Rizky",
+    "kelas": 9.10,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-283",
-    "nama" : "Muhammad Raka Fahrianto",
-    "nilai" : 9.10,
-    "status" : "LULUS"
+    "nama": "Muhammad Raka Fahrianto",
+    "kelas": 9.10,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-284",
-    "nama" : "MUHAMMAD RESTA",
-    "nilai" : 9.10,
-    "status" : "LULUS"
+    "nama": "MUHAMMAD RESTA",
+    "kelas": 9.10,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-285",
-    "nama" : "MULIADI KURNIAWAN",
-    "nilai" : 9.10,
-    "status" : "LULUS"
+    "nama": "MULIADI KURNIAWAN",
+    "kelas": 9.10,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-286",
-    "nama" : "Mutia Aghnia Kumairah",
-    "nilai" : 9.10,
-    "status" : "LULUS"
+    "nama": "Mutia Aghnia Kumairah",
+    "kelas": 9.10,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-287",
-    "nama" : "MUTIA ANGGRAINI",
-    "nilai" : 9.10,
-    "status" : "LULUS"
+    "nama": "MUTIA ANGGRAINI",
+    "kelas": 9.10,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-288",
-    "nama" : "MUTIARA",
-    "nilai" : 9.10,
-    "status" : "LULUS"
+    "nama": "MUTIARA",
+    "kelas": 9.10,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-289",
-    "nama" : "NAOMI AULIA",
-    "nilai" : 9.10,
-    "status" : "LULUS"
+    "nama": "NAOMI AULIA",
+    "kelas": 9.10,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-290",
-    "nama" : "NASILAH RAMADANI",
-    "nilai" : 9.10,
-    "status" : "LULUS"
+    "nama": "NASILAH RAMADANI",
+    "kelas": 9.10,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-291",
-    "nama" : "Rafael Sadam Husen Gandhi",
-    "nilai" : 9.10,
-    "status" : "LULUS"
+    "nama": "Rafael Sadam Husen Gandhi",
+    "kelas": 9.10,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-292",
-    "nama" : "RATU AURORA MAULIDA",
-    "nilai" : 9.10,
-    "status" : "LULUS"
+    "nama": "RATU AURORA MAULIDA",
+    "kelas": 9.10,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-293",
-    "nama" : "ROHILLA LISANGRAENI",
-    "nilai" : 9.10,
-    "status" : "LULUS"
+    "nama": "ROHILLA LISANGRAENI",
+    "kelas": 9.10,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-294",
-    "nama" : "SHAFIRA OKTAVIA ASNUR",
-    "nilai" : 9.10,
-    "status" : "LULUS"
+    "nama": "SHAFIRA OKTAVIA ASNUR",
+    "kelas": 9.10,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-295",
-    "nama" : "SHIREN OKTAVIANA PUTRI",
-    "nilai" : 9.10,
-    "status" : "LULUS"
+    "nama": "SHIREN OKTAVIANA PUTRI",
+    "kelas": 9.10,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-296",
-    "nama" : "TIA AULIA RAHMA",
-    "nilai" : 9.10,
-    "status" : "LULUS"
+    "nama": "TIA AULIA RAHMA",
+    "kelas": 9.10,
+    "status": "LULUS"
   },
   {
     "id":"12-01-097-297",
-    "nama" : "Zyra Relova Rahadyan",
-    "nilai" : 9.10,
-    "status" : "LULUS"
+    "nama": "Zyra Relova Rahadyan",
+    "kelas": 9.10,
+    "status": "LULUS"
   }
 ];
 
