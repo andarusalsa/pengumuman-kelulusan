@@ -6,10 +6,6 @@ body {
     min-height: 100vh;
 }
 
-.hidden {
-  display: none;
-}
-
 .container {
     max-width: 1024px;
     margin: 0 auto;
