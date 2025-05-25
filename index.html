@@ -1,0 +1,77 @@
+<!-- Main Content -->
+<header>
+    <link rel="stylesheet" href="styles.css">
+</header>    
+<body>
+    <main>
+        <!-- Countdown Section -->
+        <div id="countdown-section" class="countdown-container">
+            <div style="text-align: center;">
+              <img src="https://iili.io/3DDXzmX.png" alt="3DDXzmX.png" border="0" style="max-width: 100%; height: auto; margin-bottom: 10px;">
+            </div>
+            <h3 class="section-title">Pengumuman akan dibuka pada:</h3>
+            <div class="countdown-wrapper">
+                <div class="countdown-box">
+                    <span id="days" class="countdown-number">00</span>
+                    <span class="countdown-label">Hari</span>
+                </div>
+                <div class="countdown-box">
+                    <span id="hours" class="countdown-number">00</span>
+                    <span class="countdown-label">Jam</span>
+                </div>
+                <div class="countdown-box">
+                    <span id="minutes" class="countdown-number">00</span>
+                    <span class="countdown-label">Menit</span>
+                </div>
+                <div class="countdown-box">
+                    <span id="seconds" class="countdown-number">00</span>
+                    <span class="countdown-label">Detik</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Form Section (Hidden until countdown ends) -->
+        <div id="form-section" class="form-container hidden">
+          <div style="text-align: center;">
+              <img src="https://iili.io/3DDXzmX.png" alt="3DDXzmX.png" border="0" style="max-width: 100%; height: auto; margin-bottom: 10px;">
+            </div>
+            <h3 class="section-title">Cek Hasil Kelulusan</h3>
+            <form id="nisn-form" class="nisn-form">
+                <div class="form-group">
+                    <label for="id" class="form-label">Masukkan No. Ujian Anda:</label>
+                    <input type="text" id="id" name="id" class="form-input" placeholder="Contoh: 12-03-097-045" required>
+                </div>
+                <button type="submit" class="submit-button">
+                    Lihat Hasil Kelulusan
+                </button>
+            </form>
+        </div>
+
+        <!-- Result Section (Hidden until form submitted) -->
+        <div id="result-section" class="hidden">
+            <div id="result-card" class="result-card">
+                <div id="result-content">
+                    <!-- Content will be populated by JavaScript -->
+                </div>
+            </div>
+
+            <!-- Notes Section -->
+            <div class="notes-container">
+                <h4 class="notes-title">📄 Catatan Penting:</h4>
+                <ul class="notes-list">
+                    <li>Bagi peserta didik yang membutuhkan Surat Keterangan Kelulusan, silakan menghadap ke Bagian Tata Usaha pada hari dan jam kerja.</li>
+                    <li>Harap menggunakan pakaian yang rapi dan sopan.</li>
+                    <li>Tidak diperkenankan menggunakan kaos oblong dan celana Levis.</li>
+                </ul>
+            </div>
+        </div>
+</main>
+
+    <!-- Footer -->
+<footer class="footer">
+        <p>© 2025 SMPN 17 Bandar Lampung</p>
+        <p>Created by Manajemen SMPN 17 Bandar Lampung</p>
+    </footer>
+</div>
+<script src="data.js"></script>
+</body>
