@@ -1791,7 +1791,7 @@ console.log("Form section:", document.getElementById("form-section"));
 
 document.addEventListener("DOMContentLoaded", function () {
 
-    const targetDate = new Date("2025-05-01T00:00:00").getTime();
+    const targetDate = new Date("2025-06-02T00:00:00").getTime();
 
     const countdownTimer = setInterval(() => {
 
