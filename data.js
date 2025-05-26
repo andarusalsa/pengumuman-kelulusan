@@ -1790,6 +1790,8 @@ console.log("Form section:", document.getElementById("form-section"));
 
 
 document.addEventListener("DOMContentLoaded", function () {
+    console.log("Countdown JS berjalan"); // Tambahkan ini
+    console.log(document.getElementById("days")); // Tambahkan ini
 
     const targetDate = new Date("2025-06-02T00:00:00").getTime();
 
