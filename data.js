@@ -43,7 +43,7 @@ const studentData = [
     "status": "LULUS"
   },
   {
-    "no_ujian": "12-01-097-008",
+    "id": "12-01-097-008",
     "nama": "Chaerul Ikhsan",
     "kelas": "9.1",
     "status": "LULUS"
