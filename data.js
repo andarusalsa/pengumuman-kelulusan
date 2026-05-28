@@ -279,7 +279,7 @@ document.addEventListener("DOMContentLoaded", function () {
     console.log("Countdown JS berjalan"); // Tambahkan ini
     console.log(document.getElementById("days")); // Tambahkan ini
 
-    const targetDate = new Date("2026-06-01T00:00:00").getTime();
+    const targetDate = new Date("2026-06-01T00:01:00").getTime();
 
     const countdownTimer = setInterval(() => {
 
