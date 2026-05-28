@@ -279,6 +279,7 @@ document.addEventListener("DOMContentLoaded", function () {
     console.log("Countdown JS berjalan"); // Tambahkan ini
     console.log(document.getElementById("days")); // Tambahkan ini
 
+    // tanggal sebenarnya tanggal 02-06-2026
     const targetDate = new Date("2026-05-01T00:01:00").getTime();
 
     const countdownTimer = setInterval(() => {
