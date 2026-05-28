@@ -334,7 +334,7 @@ document.getElementById("nisn-form").addEventListener("submit", function(e) {
 
         // Create result content for found student
         const statusClass = student.status === "LULUS" ? "lulus" : "tidak-lulus";
-        // const statusIcon = student.status === "LULUS" ? "✅" : "❌";
+        const statusIcon = student.status === "LULUS" ? "✅" : "❌";
         
         resultContent.innerHTML = `
             <div class="result-header" style="text-align: center;">
